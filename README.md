@@ -1,4 +1,4 @@
-# R2-G2
+# R2-G2: my GitHub
 
 ## @todo
 
