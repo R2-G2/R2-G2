@@ -3,8 +3,8 @@
 ## Gists
 
 Some *"projects"* are so small they aren't worth a full sized **Git** repository. Therefore I prefer to maintain them
-using **Gists**. These don't support folders but still can be perfectly handled utilizing **Git**. For simplicity's sake
-I tend to use `silent commits` for my `flat repositories`.
+using **Gists**. These don't support all usual features but still can be perfectly handled utilizing **Git**. For
+simplicity's sake I tend to use `silent commits` for my `flat repositories`.
 
 ```shell
 editor ~/.gitconfig
