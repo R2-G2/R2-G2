@@ -4,7 +4,7 @@
 
 Some *"projects"* are so small they aren't worth a full sized **Git** repository. Therefore I prefer to maintain them
 using **Gists**. These don't support all usual features but still can be perfectly handled utilizing **Git**. For
-simplicity's sake I tend to use `silent commits` for my `flat repositories`.
+simplicity's sake I tend to use `silent commits and reverts` for my `flat repositories`.
 
 ```shell
 editor ~/.gitconfig
@@ -13,6 +13,7 @@ editor ~/.gitconfig
 ```gitconfig
 [alias]
 	silentcommit = commit --allow-empty-message -m ''
+	silentrevert = revert --no-commit
 ```
 
 - **[/etc/bash.bashrc & /etc/inputrc](https://gist.github.com/R2-G2/b71248030139bc9648b4b712e25621d5)**: my **Shell**
