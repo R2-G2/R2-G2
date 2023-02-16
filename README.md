@@ -22,6 +22,13 @@ editor ~/.gitconfig
 - **[JavaScript fuck ups](https://gist.github.com/R2-G2/1e724699d4afb2315b2cc39987a6adfc)**: random **JavaScript**s of
 	mine
 
+## Bookmarks
+
+This is just a list of nice projects not hosted on **GitHub**.
+
+- **[sispmctl](https://sourceforge.net/projects/sispmctl/)**: for USB-controlled power-outlet devices
+- **[OpenOCD](https://sourceforge.net/projects/openocd/)**: provides JTAG/SWD access ARM and MIPS processors
+
 ## Problems?
 
 Fork! Fork it! Fork you! Fork me, right?
