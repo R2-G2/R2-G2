@@ -27,7 +27,7 @@ editor ~/.gitconfig
 This is just a list of nice projects not hosted on **GitHub**.
 
 - **[sispmctl](https://sourceforge.net/projects/sispmctl/)**: for USB-controlled power-outlet devices
-- **[OpenOCD](https://sourceforge.net/projects/openocd/)**: provides JTAG/SWD access ARM and MIPS processors
+- **[OpenOCD](https://sourceforge.net/projects/openocd/)**: provides JTAG/SWD access to ARM and MIPS processors
 
 ## Problems?
 
